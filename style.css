@@ -1,0 +1,249 @@
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	background-image: url('emeenem.jpeg');
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center center;
+}
+li {
+	list-style-type: none;
+	color: whitesmoke;
+	font-family: Lato;
+}
+ul {
+	display: flex;
+	justify-content: space-evenly;
+	margin: 0;
+	padding: 0;
+
+}
+.header {
+	background-color: black;
+	padding: 50px;
+}
+.title {
+	font-size: 30px;
+}
+body li {
+	font-size: 20px;
+}
+.bio-title {
+	text-align: center;
+	padding: 100px 0;
+}
+
+.bio-title h1 {
+	
+	background-color: #857E7B;
+	width: 30%;
+	margin: 0 auto;
+	padding: 25px 0;
+	border-radius: 10px;
+	font-family: Lato;
+}
+
+.bio-text {
+	background-color: rgba(0,0,0,.75);
+	padding: 25px 10%;
+}
+
+.bio-text p {
+	color:  white;
+	font-family: League Gothic;
+	display: flex;
+	justify-content: center;
+}
+.album-title {
+	text-align: center;
+	padding: 100px 0;
+}
+
+.album-title h1 {
+	
+	background-color: #857E7B;
+	width: 30%;
+	margin: 0 auto;
+	padding: 25px 0;
+	border-radius: 10px;
+	font-family: Lato;
+}
+.album-content {
+	display: flex;
+	justify-content: space-evenly;
+	background-color: black;
+	padding: 80px;
+	background-color: rgba(0,0,0,.75);
+	margin-bottom: 100px;
+
+
+}
+.album-content img {
+	width: 150px;
+	height: 150px;
+}
+.tour-title {
+	text-align: center;
+	padding: 100px 0;
+}
+.tour-title h1 {
+	background-color: #857E7B;
+	width: 30%;
+	margin: 0 auto;
+	padding: 25px 0;
+	border-radius: 10px;
+	font-family: Lato;
+}
+.tour-content-1 {
+	display: flex;
+	justify-content: space-evenly;
+	background-color: black;
+	padding: 80px;
+	background-color: rgba(0,0,0,.75);
+	margin-bottom: 100px;
+}
+.tour-content-1 p {
+	color: white;
+	background-color: #857E7B;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 25px;
+	padding-right: 25px;
+	border-radius: 10px;
+	font-size: 25px;
+	font-family: League Gothic;
+}
+.tour-content-2 {
+	display: flex;
+	justify-content: space-evenly;
+	background-color: black;
+	padding: 80px;
+	background-color: rgba(0,0,0,.75);
+	margin-bottom: 100px;
+}
+.tour-content-2 p {
+	color: white;
+	background-color: #857E7B;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 25px;
+	padding-right: 25px;
+	border-radius: 10px;
+	font-size: 25px;
+	font-family: League Gothic;
+}
+.tour-content-3 {
+	display: flex;
+	justify-content: space-evenly;
+	background-color: black;
+	padding: 80px;
+	background-color: rgba(0,0,0,.75);
+	margin-bottom: 100px;
+}
+.tour-content-3 p {
+	color: white;
+	background-color: #857E7B;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 25px;
+	padding-right: 25px;
+	border-radius: 10px;
+	font-size: 25px;
+	font-family: League Gothic;
+}
+.tour-content-4 {
+	display: flex;
+	justify-content: space-evenly;
+	background-color: black;
+	padding: 80px;
+	background-color: rgba(0,0,0,.75);
+	margin-bottom: 100px;
+}
+.tour-content-4 p {
+	color: white;
+	background-color: #857E7B;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 25px;
+	padding-right: 25px;
+	border-radius: 10px;
+	font-size: 25px;
+	font-family: League Gothic;
+}
+.tour-content-5 {
+	display: flex;
+	justify-content: space-evenly;
+	background-color: black;
+	padding: 80px;
+	background-color: rgba(0,0,0,.75);
+	margin-bottom: 100px;
+}
+.tour-content-5 p {
+	color: white;
+	background-color: #857E7B;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 25px;
+	padding-right: 25px;
+	border-radius: 10px;
+	font-size: 25px;
+	font-family: League Gothic;
+}
+.tour-content-6 {
+	display: flex;
+	justify-content: space-evenly;
+	background-color: black;
+	padding: 80px;
+	background-color: rgba(0,0,0,.75);
+	margin-bottom: 100px;
+}
+.tour-content-6 p {
+	color: white;
+	background-color: #857E7B;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 25px;
+	padding-right: 25px;
+	border-radius: 10px;
+	font-size: 25px;
+	font-family: League Gothic;
+}
+.tour-content-7 {
+	display: flex;
+	justify-content: space-evenly;
+	background-color: black;
+	padding: 80px;
+	background-color: rgba(0,0,0,.75);
+	margin-bottom: 100px;
+}
+.tour-content-7 p {
+	color: white;
+	background-color: #857E7B;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 25px;
+	padding-right: 25px;
+	border-radius: 10px;
+	font-size: 25px;
+	font-family: League Gothic;
+}
+.tour-content-8 {
+	display: flex;
+	justify-content: space-evenly;
+	background-color: black;
+	padding: 80px;
+	background-color: rgba(0,0,0,.75);
+	margin-bottom: 100px;
+}
+.tour-content-8 p {
+	color: white;
+	background-color: #857E7B;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 25px;
+	padding-right: 25px;
+	border-radius: 10px;
+	font-size: 25px;
+	font-family: League Gothic;
+}
